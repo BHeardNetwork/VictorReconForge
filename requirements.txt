@@ -1,0 +1,9 @@
+requests
+rich
+networkx
+matplotlib
+python-dotenv
+typer[all]
+textual
+pyyaml
+tqdm
