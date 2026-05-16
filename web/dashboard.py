@@ -1,0 +1,1 @@
+Full God-Tier FastAPI dashboard with hacker UI, WebSocket REM logs, scan triggers. See local artifacts for complete code.
